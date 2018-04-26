@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Madras-Restaurant</title>
+  <link rel="stylesheet" type="text/css" href="Madras-Restaurant.css">
+  <link href="https://fonts.googleapis.com/css?family=Londrina+Shadow|Montserrat|Nunito:400,600,700,900|Slabo+27px" rel="stylesheet">
+ </head>
+ 	
+ <body>
+ <div id="menu" class="page">
+ 		<header>
+			<div id="nav-bar" class="fixed">
+					<div class="container">
+					<a id="logo" href="/" title="MadraS-Restaurant">MadraS-Restaurant</a>
+					<div class="mobile-nav">
+							<nav class="tabs">
+									<ul>
+										<li class="t1-current">
+											<a href="/About" title="MadraS-Restaurant About">About</a>
+										</li>
+										<li class="t2">
+											<a href="/Menu" title="MadraS-Restaurant Menu">Menu</a>
+										</li>
+										<li class="t3">
+											<a href="/Recipes" title="MadraS-Restaurant Recipes">Recipes</a>
+										</li>
+										<li class="t4">
+											<a href="/Orders" title=""MadraS-Restaurant Orders">Orders</a>
+										</li>
+										<li class="t5">
+										<a href="/Gallery" title=""MadraS-Restaurant Gallery">Gallery</a>
+										</li>
+										<li class="t6">
+											<a href="/Contact" title=""MadraS-Restaurant Contact">Contact</a>
+										</li>
+										</ul>
+										</nav>
+										<nav class="socialshare">
+										<ul>
+										<li class="sharefb">
+											<a href="https://www.facebook.com/madras-restaurant" class="ir">Facebook</a>
+										</li>
+										<li class="sharein">
+											<a href="https://www.instagram.com/madras-restaurant" class="ir">Instagram</a>
+										</li>
+										<li class="sharetw">
+											<a href="https://www.twitter.com/madras-restaurant" class="ir"><Twitter</a>
+											</li>
+									</ul>
+							</nav>
+			</div>
+</div>
+</div>
+</div>
+</html>
+
